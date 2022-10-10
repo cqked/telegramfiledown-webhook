@@ -21,7 +21,7 @@ def main(messages):
 
 
 def getfile(message):
-    BOTTOKEN = 'bot5595337794:AAGZEJ9c8KD_RL5PbSqMRmI3n0N2XtU4-kE'
+    BOTTOKEN = ''
     BOTURL = 'http://localhost:8081/'
     SAVEDIR = '/Users/fengxiao/Desktop/'
     with httpx.Client(timeout=None) as client:
