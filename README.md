@@ -1,6 +1,6 @@
 # telegram 转存机器人webhook版
 
-python学习成果 基于django写的，有不少废文件。
+基于django写的，有不少废文件。
 
 可以让机器人将接收到的所有文件保存到本地
 
